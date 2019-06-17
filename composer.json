@@ -1,0 +1,17 @@
+{
+	"name": "pandora3/widget-field-date",
+	"type": "pandora3-widget",
+	"description": "Pandora 3: Widget FieldDate",
+	"homepage": "https://github.com/PandoraTeam/pandora3-widget-FieldDate",
+	"authors": [
+		{
+			"name": "Petr Gostin",
+			"email": "nescafe238@gmail.com",
+			"homepage": "http://u-238.ru",
+			"role": "Developer"
+		}
+	],
+	"extra": {
+		"installer-name": "FieldDate"
+	}
+}
